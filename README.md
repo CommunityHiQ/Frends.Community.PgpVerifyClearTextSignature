@@ -10,6 +10,9 @@
    - [Contributing](#contributing)
        
 # Frends.Community.PgpVerifyClearTextSignature
+
+This Task is deprecated. Use [Frends.Community.Pgp](https://github.com/CommunityHiQ/Frends.Community.Pgp) Tasks insted.
+
 This repository contais FRENDS4 Community Task to verify a PGP signature at the end of text file. 
 
 ## Documentation
